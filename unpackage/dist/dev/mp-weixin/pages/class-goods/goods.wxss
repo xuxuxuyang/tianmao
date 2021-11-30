@@ -1,0 +1,17 @@
+
+page{background: #f4f4f4;}
+.condition-view{
+background: #ffffff; height: 70rpx; font-size: 28rpx;
+display: flex; align-items: center;
+justify-content: space-around;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+}
+.condition-view image{width: 25rpx; height: 25rpx;}
+.condition-view text{padding-right: 8rpx;}
+.condition-view view{display: flex; align-items: center; color: #999;}
+.active{color: #DD2727 !important;}
+.admining{-webkit-transform:rotate(180deg);transform:rotate(180deg);}
+

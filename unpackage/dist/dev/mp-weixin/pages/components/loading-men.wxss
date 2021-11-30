@@ -1,0 +1,12 @@
+
+.loading-men.data-v-3b9993f6{width: 200rpx; height: 100rpx;
+font-size: 20rpx;
+color: #A7A7A7;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.loading-men image.data-v-3b9993f6{width: 60rpx; height: 80rpx; display: block;}
+

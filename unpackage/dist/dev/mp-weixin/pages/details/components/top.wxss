@@ -1,0 +1,11 @@
+
+.navs-nav.data-v-4f72a4fc{font-size: 30rpx; width: 100rpx;
+ text-align: center; color: #464230;
+}
+.navs-image image.data-v-4f72a4fc{width: 20px; height: 20px;}
+.navs-image.data-v-4f72a4fc{width: 20px; display: flex; align-items: center; padding-left: 20rpx;}
+.navs.data-v-4f72a4fc{display: flex; justify-content: center; align-self: center;
+}
+.navactivetext.data-v-4f72a4fc{border-bottom: 5rpx solid #3d3b32;}
+.navs-view.data-v-4f72a4fc{display: flex; align-items: center; justify-content: space-between;}
+

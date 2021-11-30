@@ -1,0 +1,49 @@
+
+.evaluate-view.data-v-4431c3bc{background: #FFFFFF;
+margin-top: 20rpx;
+padding: 20rpx;
+}
+.evaluate-top.data-v-4431c3bc{font-size: 30rpx; height: 50rpx;
+display: flex;
+justify-content: space-between;
+align-items: center;
+/* background: #4CD964; */
+}
+.evaluate-rig image.data-v-4431c3bc{width: 27rpx; height: 27rpx;
+padding-left: 20rpx;
+}
+.evaluate-rig.data-v-4431c3bc{display: flex; align-items: center;}
+/* 分类 */
+.evaluate-class.data-v-4431c3bc{font-size: 25rpx; display: flex;
+flex-wrap: wrap;
+margin: 15rpx 0;
+}
+.evaluate-class text.data-v-4431c3bc{background: #feecea;
+border-radius: 50rpx;
+padding: 15rpx;
+margin: 0rpx 14rpx 14rpx 0;
+}
+/* 用户评价 */
+.evaluate-User.data-v-4431c3bc{font-size: 25rpx; color: #999999;}
+.evaluate-User image.data-v-4431c3bc{width: 50rpx; height: 50rpx !important;
+border-radius: 50%;
+}
+.USering.data-v-4431c3bc{height: 50rpx; 
+/* background: #007AFF; */
+display: flex;
+align-items: center;
+}
+.USering text.data-v-4431c3bc{padding-left: 10rpx;}
+.USering-text.data-v-4431c3bc{color: #333333;
+line-height: 40rpx;
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 2;  /* 控制多行的行数 */
+-webkit-box-orient: vertical;
+}
+.USering-time.data-v-4431c3bc{display: flex; align-items: center;
+height: 50rpx;
+}
+.USering-time text.data-v-4431c3bc:nth-child(1){padding-right: 10rpx;}
+

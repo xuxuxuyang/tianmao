@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* less */
+.search-view.data-v-f17f7260{height: 100rpx; background: #fe001d;
+display: flex; justify-content: space-between;
+align-items: center;}
+.search-view image.data-v-f17f7260{width: 50rpx; height: 50rpx;}
+.search-ing.data-v-f17f7260{background: #FFFFFF; height: 70rpx;
+border-radius: 50rpx;
+display: flex;
+flex-direction: row;
+flex: 1;
+position: relative;
+}
+.search-ing input.data-v-f17f7260{
+height: 70rpx;
+line-height: 70rpx;
+width: 100%;
+font-size: 30rpx;
+color: #b2b2b2;
+padding-left: 80rpx;}
+.search-ing image.data-v-f17f7260{
+width: 35rpx;
+height: 35rpx;
+position: absolute;
+left: 30rpx;
+align-self: center;
+}
+.search-men.data-v-f17f7260{width: 50rpx; height: 50rpx;
+padding: 0 20rpx;}
+

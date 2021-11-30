@@ -1,0 +1,10 @@
+
+.parame-view.data-v-b57d604a{font-size: 28rpx; display: flex; border-bottom: 1px solid #F0F0F0;
+justify-content: flex-start;
+padding: 25rpx 15rpx;}
+.parame-left.data-v-b57d604a{
+width: 100rpx;
+padding-right: 25rpx;
+}
+.parame-right.data-v-b57d604a{flex: 1;}
+

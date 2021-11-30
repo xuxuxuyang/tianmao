@@ -1,0 +1,26 @@
+
+.new-address-view.data-v-7e34f3c4{padding: 10rpx 30rpx;}
+.new-address.data-v-7e34f3c4{
+height: 100rpx;
+display: flex; 
+align-items: center;
+justify-content: space-between;
+font-size: 28rpx;
+border-bottom: 1rpx solid #F0F0F0;
+}
+.new-address view.data-v-7e34f3c4:nth-child(1){width: 150rpx;}
+.new-address view.data-v-7e34f3c4:nth-child(2){flex: 1;}
+.new-address view.data-v-7e34f3c4:nth-child(3){color: #4CD964;}
+/* 保存 */
+.conServe.data-v-7e34f3c4{height: 80rpx;
+font-size: 30rpx;
+border-radius: 10rpx;
+font-weight: bold;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 30rpx;
+}
+.adcolor.data-v-7e34f3c4{background:linear-gradient(to right,#ffd300,#e6be00);}
+.decolor.data-v-7e34f3c4{background-color: red; color: #FFFFFF;}
+

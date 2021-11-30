@@ -1,0 +1,17 @@
+
+.login-page.data-v-67c57a63{
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #FFFFFF;
+	z-index: 999;
+}
+.login-page button.data-v-67c57a63{
+	width: 350rpx;
+}
+
